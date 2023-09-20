@@ -48,9 +48,14 @@ export const shopSlice = createSlice({
     setUserInfo: (state, action) => {
       state.userInfo = action.payload;
     },
+    setVerified: state => {
+      if (state.userInfo) {
+        state.userInfo.verified = true;
+      }
+    },
     userSignOut: (state) => {
       state.userInfo = null;
-    },
+    }
     //addUser: (state, action) => {
     //  state.userInfo = action.payload;
     //},
@@ -67,6 +72,7 @@ export const {
   decrementQuantity,
   setUserInfo,
   userSignOut,
+  setVerified,
   //addUser,
   //removeUser,
 } = shopSlice.actions;

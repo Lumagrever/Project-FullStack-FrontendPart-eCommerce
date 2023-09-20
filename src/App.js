@@ -8,6 +8,7 @@ import { productsData } from "./data/ProductsData";
 import Product from "./components/Product";
 import Login from "./pages/Login";
 import Registration from "./pages/Registration";
+import Validation from "./pages/Validation";
 
 
 const Layout = () => {
@@ -46,6 +47,10 @@ const router = createBrowserRouter ([
       {
         path: "/registration",
         element: <Registration />
+      },
+      {
+        path: "/validation",
+        element: <Validation />,
       },
     ],
   },
