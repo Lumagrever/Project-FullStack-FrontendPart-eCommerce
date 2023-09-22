@@ -124,7 +124,7 @@ const Registration = () => {
   return (
     <div className="w-full">
       <div className="w-full pt-20 pb-20">
-        <form className="w-[370px] mx-auto flex flex-col items-center g-orange-50 p-2 border border-orange-800 rounded-t-2xl bg-orange-50">
+        <form className="w-[350px] mx-auto flex flex-col items-center g-orange-50 p-2 border border-orange-800 rounded-t-2xl bg-orange-50">
           <div className="w-full border border-orange-900 p-6 rounded-t-2xl">
             <h2 className="font-titleFont text-3xl font-medium mb-4">
               Zona de Registro

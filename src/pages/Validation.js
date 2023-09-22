@@ -72,7 +72,7 @@ const Validation = () => {
           <form className="w-[350px] mx-auto flex flex-col items-center bg-orange-50 p-2 border border-orange-800 rounded-t-2xl">
             <div className="w-full border border-orange-900 p-6 rounded-t-2xl">
               <h2 className="font-titleFont text-3xl font-medium mb-4">
-                Te enviamos un código a tu email
+                Revisa el código enviado a tu email
               </h2>
               <div className="flex flex-col gap-3">
                 <div className="flex flex-col gap-2">
