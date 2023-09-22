@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+--- LINKS DEL PROYECTO FINAL FULLSTACK ---
+
+LINK FRONTEND GITHUB: https://github.com/Lumagrever/Project-FullStack-FrontendPart-eCommerce
+
+LINK FRONTEND VERCEL: https://project-full-stack-frontend-part-e-commerce.vercel.app
+
+LINK BACKEND GITHUB: https://github.com/Lumagrever/Project-FullStack-BackendPart-eCommerce
+
+LINK BACKEND VERCEL: https://wow-shop-api.vercel.app
+
+LINK DE DOCUMENTACION DE WOW SHOP API: https://documenter.getpostman.com/view/23563607/2s9YCBuq1L
