@@ -1,3 +1,4 @@
+// Codigo no incorporado, sirve para implementar logeo con cuenta de Google
 import React from "react";
 import { ToastContainer, toast } from "react-toastify";
 import {

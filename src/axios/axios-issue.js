@@ -1,3 +1,4 @@
+// Codigo no aplicable porque el eCommerce no esta habilitado para cuentas Admin.
 import axios from 'axios';
 import { BASE_URL } from '../utils/constants';
 
